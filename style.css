@@ -138,7 +138,7 @@ body {
 .span-image {
     width: 220px;
     height: 180px;
-    background-color: transparent;
+    background-color: blueviolet;
     position: absolute;
     top: 120px;
     right: -0px;
